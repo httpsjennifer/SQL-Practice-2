@@ -9,5 +9,8 @@ It is a relational database for Dolly's Treetop Parlours competitor. It will tac
 
 **Prerequisites**: MySQL
 
-## QUICK DEPLOYMENT
+### QUICK DEPLOYMENT
+
+1.  Clone the repository
+   
 
