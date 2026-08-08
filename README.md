@@ -5,3 +5,9 @@
 
 It is a relational database for Dolly's Treetop Parlours competitor. It will tackle a different diner issue
 
+## How can users engage with my project?
+
+**Prerequisites**: MySQL
+
+## QUICK DEPLOYMENT
+
