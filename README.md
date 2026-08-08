@@ -5,12 +5,23 @@
 
 It is a relational database for Dolly's Treetop Parlours competitor. It will tackle a different diner issue
 
-## How can users engage with my project?
+## How can users get started with this project?
 
 **Prerequisites**: MySQL
 
 ### QUICK DEPLOYMENT
 
 1.  Clone the repository
-   
+
+## Contribution Guide
+
+##Where can users get help with this project?
+
+**Contact**
+
+Jennifer - Creator and Main Contributor
+
+- Email: httpsjennifer@outlook.com
+- Twitter/X:
+
 
