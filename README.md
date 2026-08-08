@@ -7,7 +7,7 @@
 
 It is a relational database for Dolly's Treetop Parlours competitor. It will tackle a different diner issue
 
-##Why is it useful?
+## Why is it useful?
 
 ## How can users get started with this project?
 
