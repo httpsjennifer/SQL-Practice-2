@@ -15,7 +15,7 @@ It is a relational database for Dolly's Treetop Parlours competitor. It will tac
 
 ## Contribution Guide
 
-##Where can users get help with this project?
+## Where can users get help with this project?
 
 **Contact**
 
