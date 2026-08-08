@@ -1,7 +1,6 @@
-# See Food Star Diner
+# See Food Star Diner | ![status](https://img.shields.io/badge/STATUS:-in_progress-purple?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/Database-SQL-pink)
 
-![status](https://img.shields.io/badge/STATUS:-in_progress-orange?style=for-the-badge)
 
 ## What does my project do? 
 
